@@ -1,0 +1,60 @@
+body{
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    background-color: gainsboro;
+    color: black;
+    font: Tahoma;
+    font-size: 16px;
+}
+h1, p{
+    text-align: center;
+}
+.tribute-info{
+    text-align: center;
+    justify-content: center;
+    display: block;
+    margin: 0 auto;
+    max-width: 500px;
+    min-width: 300px;
+    width: 60vw;
+    padding-bottom: 2em;
+}
+h2{
+    text-align: center;
+    margin-left: -380px;    
+}
+div{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 450px;
+    margin-right: 100px;
+}
+.img-div,.img-caption{
+    text-align: center;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+p,.title{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+ul{
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+.img-div,.image{
+    padding: 5px;
+    width: 50px;
+    height: 20px;
+}
+.main{
+    text-align: center;
+    justify-content: center;
+}
+#image{
+    max-width: 20px;
+    max-height: 50px;
+}
